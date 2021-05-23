@@ -12,4 +12,4 @@ I've learned:
 - How to use anchors to create AutoLayout expressions
 
 ## Preview
-<img src="https://github.com/azat-dev/ios-swift-100-uikit-project-6b/raw/main/preview.gif" width="300px"/>
+<img src="https://github.com/azat-dev/ios-swift-100-uikit-project-6b/raw/master/preview.gif" width="300px"/>
