@@ -6,10 +6,10 @@ The stack of technologies which I used in this project:
 - UIKit
 - Storyboards
 
-I've learned:
-- How to use AutoLayout
-- How to VFL (Visual Format Language)
-- How to use anchors to create AutoLayout expressions
+I've repeated:
+- How to use UIActivityController
+- How to use UITableViewController
+- Howt to use UIAlertController
 
 ## Preview
 <img src="https://github.com/azat-dev/ios-swift-100-uikit-project-6b/raw/master/preview.gif" width="300px"/>
